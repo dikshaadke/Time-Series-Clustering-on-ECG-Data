@@ -1,5 +1,7 @@
-# Time-Series-Clustering-on-ECG-DataUCR Time Series Collection. Largest public collection of 85 class-labeled time series dataset. 
+# Time-Series-Clustering-on-ECG
 
+Dataset - 
+UCR Time Series Collection. Largest public collection of 85 class-labeled time series dataset. 
 Link - https://www.cs.ucr.edu/~eamonn/time_series_data/
 
 
